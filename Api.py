@@ -8,7 +8,7 @@ def Hello():
     return "hello_world1111"
     
 @app.route('/b')
-def Hello():
+def Hello1():
     import pyodbc
 
 
